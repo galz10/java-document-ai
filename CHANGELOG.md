@@ -1,5 +1,17 @@
 # Changelog
 
+### [2.1.9](https://www.github.com/googleapis/java-document-ai/compare/v2.1.8...v2.1.9) (2021-12-07)
+
+
+### Bug Fixes
+
+* **java:** add -ntp flag to native image testing command ([#1299](https://www.github.com/googleapis/java-document-ai/issues/1299)) ([#694](https://www.github.com/googleapis/java-document-ai/issues/694)) ([cc0972c](https://www.github.com/googleapis/java-document-ai/commit/cc0972c4a7c98af1658306022535b7cf399cf2c0))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-storage to v2.2.2 ([#696](https://www.github.com/googleapis/java-document-ai/issues/696)) ([077f1d2](https://www.github.com/googleapis/java-document-ai/commit/077f1d224b891bd03bb5c3f5e24c71d671c84787))
+
 ### [2.1.8](https://www.github.com/googleapis/java-document-ai/compare/v2.1.7...v2.1.8) (2021-12-03)
 
 
